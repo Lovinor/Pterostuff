@@ -1,7 +1,7 @@
 ## Themes
 
 - [IceMinecraftTheme](https://github.com/Angelillo15/IceMinecraftTheme) • (Ice Theme)
-- [PteroFreeStuffinstaller](https://forums.papermc.io/) • (Dark Themes)
+- [PteroFreeStuffinstaller](https://github.com/Sigma-Production/PteroFreeStuffinstaller) • (Dark Themes)
 - [MinecraftPurpleTheme](https://github.com/Angelillo15/MinecraftPurpleTheme) • (Purple Theme)
 ## Addons
 - none
